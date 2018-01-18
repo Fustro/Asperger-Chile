@@ -20,10 +20,10 @@ margin-top: 30px;
 
 }
 
-#carouselIndex{
+/* #carouselIndex{
 
 height: 800px;
-}
+} */
 
 a{
   color: white;
@@ -32,10 +32,13 @@ a{
 
 margin-top: 25px;
 text-align: center;
-height: 400px;
+height: 650px;
 width: 100%;
 }
 
+.cf{
+  width: 300px;
+}
 
 .contenedor{
   margin-top: 20px;
