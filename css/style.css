@@ -1,0 +1,59 @@
+.cuerpo{
+  height: 1000px;
+}
+
+body{
+  background-color: rgba(#ace0dd, 0.5);
+}
+
+.logo{
+margin-right: 30px;
+height: 50px;
+}
+
+.jumbotron.green{
+  background-color: rgb(183, 230, 137);
+}
+
+.topM{
+margin-top: 30px;
+
+}
+
+#carouselIndex{
+
+height: 800px;
+}
+
+.contenedor{
+  margin-top: 20px;
+  border: solid 1px; black;
+  padding: 50px;
+  width: 80%;
+  height: 100%;
+  background-color: rgba(199, 230, 255, 0.93);
+}
+
+.caption{
+  color: black;
+  overflow: visible;
+}
+
+.hb{
+text-align: center;
+padding: 20px;
+margin-top: 65px;
+height: 1800px;
+width: 100%;
+background-color: rgba(167, 236, 204, 0.22);
+color: black;
+}
+
+.blogItem{
+  margin-top: 10px;
+  border: solid 1px; black;
+  text-align: center;
+  height: 300px;
+  width: 80%;
+  background-color: rgba(235, 247, 135, 0.21);
+}
