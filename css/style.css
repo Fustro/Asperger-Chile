@@ -25,6 +25,18 @@ margin-top: 30px;
 height: 800px;
 }
 
+a{
+  color: white;
+}
+.formularioCont{
+
+margin-top: 25px;
+text-align: center;
+height: 400px;
+width: 100%;
+}
+
+
 .contenedor{
   margin-top: 20px;
   border: solid 1px; black;
@@ -43,7 +55,7 @@ height: 800px;
 text-align: center;
 padding: 20px;
 margin-top: 65px;
-height: 1800px;
+height: 2000px;
 width: 100%;
 background-color: rgba(167, 236, 204, 0.22);
 color: black;
@@ -56,4 +68,17 @@ color: black;
   height: 300px;
   width: 80%;
   background-color: rgba(235, 247, 135, 0.21);
+}
+
+
+
+.foot{
+  margin-top: 10px;
+  padding-top: 8px;
+text-align: center;
+color: white;
+height: 40px;
+width: 100%;
+background-color: rgba(15, 71, 83, 0.69);
+
 }
